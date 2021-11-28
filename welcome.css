@@ -257,9 +257,9 @@ a:hover {
 
 .button {
     font-family: 'Raleway', sans-serif;
-    font-size: 1.5em;
+    font-size: 0.3em;
     flex: 1 1 auto;
-    margin-top: 50vh;
+    margin-top: 10vh;
     color: rgb(255, 255, 255);
     right: 80px;
     padding: 20px;
